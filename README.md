@@ -104,7 +104,9 @@ Video Virtual reality  (VR) and  Panorama  Virtual reality (VR) By Unity 3d
             GetComponent<Rigidbody>().freezeRotation = true;
     }
     
-    
+    ## YouTube Channel Wonder developer To Subscriber 
+https://youtube.com/channel/UCNJVG9_IebHe-NF-K_Y8Grw?sub_confirmation=1
+
     
     
    ## Can be start web Augmented reality
